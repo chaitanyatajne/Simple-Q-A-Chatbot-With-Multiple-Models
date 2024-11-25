@@ -39,7 +39,7 @@ st.title("Simple Q&A Chatbot with Multiple Models")
 
 # Sidebar Settings
 st.sidebar.title("Settings")
-api_key = st.sidebar.text_input("Enter API Key:", type='password')
+api_key = st.sidebar.text_input("Enter GROQ API Key:", type='password')
 model = st.sidebar.selectbox("Select Model", options=model_list)
 temperature = st.sidebar.slider("Select Temperature", min_value=0.00, max_value=1.00, step=0.01)
 
