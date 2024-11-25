@@ -197,6 +197,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 If you have any questions or suggestions, feel free to open an issue or contact the repository owner.
 
----
-
-This README file explains each section of your code and provides a comprehensive guide for setting up and using your project. If there's anything more you'd like to add or adjust, let me know!
